@@ -1,5 +1,5 @@
 # LendingClub-Loan-Prediction
-Prediction of loan payment.
+Prediction of loan payment
 --------------------------
 About:
 -----
